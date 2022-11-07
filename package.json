@@ -39,5 +39,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "- Create a Similar page using the Provided Boilerplate\r   ![](./src/assets/rct-201-e1.png)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dhanush-Saji/rct-201-e1-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dhanush-Saji/rct-201-e1-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Dhanush-Saji/rct-201-e1-boilerplate#readme"
 }
